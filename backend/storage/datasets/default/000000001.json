@@ -1,0 +1,484 @@
+{
+	"products": [
+		{
+			"title": "Yellowface",
+			"price": 3.9,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780008532819.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/yellowface-book-rebecca-f-kuang-9780008532819",
+			"author": "Rebecca F Kuang",
+			"sourceId": "9847883038993"
+		},
+		{
+			"title": "Tomorrow, and Tomorrow, and Tomorrow",
+			"price": 5,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781529115543.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/tomorrow-and-tomorrow-and-tomorrow-book-gabrielle-zevin-9781529115543",
+			"author": "Gabrielle Zevin",
+			"sourceId": "9779703513361"
+		},
+		{
+			"title": "The Seven Husbands of Evelyn Hugo",
+			"price": 4.1,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781398515697.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/seven-husbands-of-evelyn-hugo-book-taylor-jenkins-reid-9781398515697",
+			"author": "Taylor Jenkins Reid",
+			"sourceId": "9779766100241"
+		},
+		{
+			"title": "The Wrong Sister",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781405957618.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/wrong-sister-book-claire-douglas-9781405957618",
+			"author": "Claire Douglas",
+			"sourceId": "9919552323857"
+		},
+		{
+			"title": "The Burnout",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781804990810.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/burnout-book-sophie-kinsella-9781804990810",
+			"author": "Sophie Kinsella",
+			"sourceId": "9877454586129"
+		},
+		{
+			"title": "Normal People",
+			"price": 3.7,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780571334650.jpg?updatedAt=1764844994133",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/normal-people-book-sally-rooney-9780571334650",
+			"author": "Sally Rooney",
+			"sourceId": "9779819381009"
+		},
+		{
+			"title": "The Midnight Library",
+			"price": 3.9,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781786892737.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/midnight-library-book-matt-haig-9781786892737",
+			"author": "Matt Haig",
+			"sourceId": "9779707412753"
+		},
+		{
+			"title": "The Handmaid's Tale",
+			"price": 5.8,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780099740919.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/handmaid-s-tale-book-margaret-atwood-9780099740919",
+			"author": "Margaret Atwood",
+			"sourceId": "9779786121489"
+		},
+		{
+			"title": "The Satsuma Complex",
+			"price": 7.4,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781398521230.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/satsuma-complex-book-bob-mortimer-9781398521230",
+			"author": "Bob Mortimer",
+			"sourceId": "9782196273425"
+		},
+		{
+			"title": "The Lost Bookshop",
+			"price": 7,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780008609214.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/lost-bookshop-book-evie-woods-9780008609214",
+			"author": "Evie Woods",
+			"sourceId": "9779708297489"
+		},
+		{
+			"title": "Before the Coffee Gets Cold",
+			"price": 4.3,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781529029581.jpg?updatedAt=1767350427255",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/before-the-coffee-gets-cold-book-toshikazu-kawaguchi-9781529029581",
+			"author": "Toshikazu Kawaguchi",
+			"sourceId": "9847357538577"
+		},
+		{
+			"title": "Butter",
+			"price": 7.4,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780008511685.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/butter-book-asako-yuzuki-9780008511685",
+			"author": "Asako Yuzuki",
+			"sourceId": "9812336279825"
+		},
+		{
+			"title": "The Pumpkin Spice Cafe",
+			"price": 5.4,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780008610678.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/pumpkin-spice-cafe-book-laurie-gilmore-9780008610678",
+			"author": "Laurie Gilmore",
+			"sourceId": "9779975717137"
+		},
+		{
+			"title": "No One Saw a Thing",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781804990780.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/no-one-saw-a-thing-book-andrea-mara-9781804990780",
+			"author": "Andrea Mara",
+			"sourceId": "9800502935825"
+		},
+		{
+			"title": "The Housemaid",
+			"price": 8.4,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781408728512.jpg?updatedAt=1766657396365",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/housemaid-book-freida-mcfadden-9781408728512",
+			"author": "Freida Mcfadden",
+			"sourceId": "9794426798353"
+		},
+		{
+			"title": "Verity",
+			"price": 3.9,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781408726600.jpg?updatedAt=1766139043498",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/verity-book-colleen-hoover-9781408726600",
+			"author": "Colleen Hoover",
+			"sourceId": "9779763937553"
+		},
+		{
+			"title": "Where the Crawdads Sing",
+			"price": 3.9,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781472154668.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/where-the-crawdads-sing-book-delia-owens-9781472154668",
+			"author": "Delia Owens",
+			"sourceId": "9779795329297"
+		},
+		{
+			"title": "Lessons in Chemistry",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781804990926.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/lessons-in-chemistry-book-bonnie-garmus-9781804990926",
+			"author": "Bonnie Garmus",
+			"sourceId": "9789946036497"
+		},
+		{
+			"title": "None of This is True",
+			"price": 3.7,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781804940204.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/none-of-this-is-true-book-lisa-jewell-9781804940204",
+			"author": "Lisa Jewell",
+			"sourceId": "9784769970449"
+		},
+		{
+			"title": "A Court of Thorns and Roses",
+			"price": 3.9,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781526605399.jpg?updatedAt=1767348993670",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/court-of-thorns-and-roses-book-sarah-j-maas-9781526605399",
+			"author": "Sarah J Maas",
+			"sourceId": "9846944432401"
+		},
+		{
+			"title": "Educated",
+			"price": 5.7,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780099511021.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/educated-book-tara-westover-9780099511021",
+			"author": "Tara Westover",
+			"sourceId": "9779784319249"
+		},
+		{
+			"title": "Prisoners of Geography",
+			"price": 4.1,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781783962433.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/prisoners-of-geography-book-tim-marshall-9781783962433",
+			"author": "Tim Marshall",
+			"sourceId": "9779828752657"
+		},
+		{
+			"title": "Sapiens",
+			"price": 3.9,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780099590088.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/sapiens-book-yuval-noah-harari-9780099590088",
+			"author": "Yuval Noah Harari",
+			"sourceId": "9780109967633"
+		},
+		{
+			"title": "The Salt Path",
+			"price": 3.5,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781405937184.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/salt-path-book-raynor-winn-9781405937184",
+			"author": "Raynor Winn",
+			"sourceId": "9779769639185"
+		},
+		{
+			"title": "Why Has Nobody Told Me This Before?",
+			"price": 7,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780241529713.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/why-has-nobody-told-me-this-before-book-julie-smith-9780241529713",
+			"author": "Julie Smith",
+			"sourceId": "9782324986129"
+		},
+		{
+			"title": "Everything I Know About Love",
+			"price": 4,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780241982105.jpg?updatedAt=1767093378756",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/everything-i-know-about-love-book-dolly-alderton-9780241982105",
+			"author": "Dolly Alderton",
+			"sourceId": "9805127221521"
+		},
+		{
+			"title": "The Chimp Paradox",
+			"price": 5,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780091935580.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/chimp-paradox-book-steve-peters-9780091935580",
+			"author": "Steve Peters",
+			"sourceId": "9779775635729"
+		},
+		{
+			"title": "Why We Sleep",
+			"price": 5.5,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780141983769.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/why-we-sleep-book-matthew-walker-9780141983769",
+			"author": "Matthew Walker",
+			"sourceId": "9780621902097"
+		},
+		{
+			"title": "Thinking, Fast and Slow",
+			"price": 8.4,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780141033570.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/thinking-fast-and-slow-book-daniel-kahneman-9780141033570",
+			"author": "Daniel Kahneman",
+			"sourceId": "9783841653009"
+		},
+		{
+			"title": "Politics On the Edge",
+			"price": 4.9,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781529922868.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/politics-on-the-edge-book-rory-stewart-9781529922868",
+			"author": "Rory Stewart",
+			"sourceId": "9877378662673"
+		},
+		{
+			"title": "Surrounded by Idiots",
+			"price": 7.7,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781785042188.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/surrounded-by-idiots-book-thomas-erikson-9781785042188",
+			"author": "Thomas Erikson",
+			"sourceId": "9821829529873"
+		},
+		{
+			"title": "Ikigai",
+			"price": 10.1,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781786330895.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/ikigai-book-miralles-francesc-9781786330895",
+			"author": "Miralles Francesc",
+			"sourceId": "9784818368785"
+		},
+		{
+			"title": "Interesting Stories For Curious People",
+			"price": 3.3,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781648450440.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/interesting-stories-for-curious-people-book-bill-o-neill-9781648450440",
+			"author": "Bill O'neill",
+			"sourceId": "9784847139089"
+		},
+		{
+			"title": "A History of Britain in Ten Enemies",
+			"price": 8.3,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781804994979.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/history-of-britain-in-ten-enemies-book-terry-deary-9781804994979",
+			"author": "Terry Deary",
+			"sourceId": "10314453188881"
+		},
+		{
+			"title": "The Spy and the Traitor",
+			"price": 3.9,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780241972137.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/spy-and-the-traitor-book-ben-macintyre-9780241972137",
+			"author": "Ben Macintyre",
+			"sourceId": "9779778027793"
+		},
+		{
+			"title": "The Courage To Be Disliked",
+			"price": 8.3,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781760630737.jpg?updatedAt=1764845391447",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/courage-to-be-disliked-book-ichiro-kishimi-9781760630737",
+			"author": "Ichiro Kishimi",
+			"sourceId": "9808618586385"
+		},
+		{
+			"title": "The Dark Side of the Mind",
+			"price": 8.3,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781788402170.jpg?updatedAt=1763633913684",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/dark-side-of-the-mind-book-kerry-daynes-9781788402170",
+			"author": "Kerry Daynes",
+			"sourceId": "9779809878289"
+		},
+		{
+			"title": "Get Your Sh*t Together",
+			"price": 3.9,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781786484086.jpg?updatedAt=1764845477207",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/get-your-sh-t-together-book-sarah-knight-9781786484086",
+			"author": "Sarah Knight",
+			"sourceId": "9784820924689"
+		},
+		{
+			"title": "How They Broke Britain",
+			"price": 3.9,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780753560365.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/how-they-broke-britain-book-james-o-brien-9780753560365",
+			"author": "James O'brien",
+			"sourceId": "9847388340497"
+		},
+		{
+			"title": "Ultra-Processed People",
+			"price": 8.3,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781529160222.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/ultra-processed-people-book-chris-van-tulleken-9781529160222",
+			"author": "Chris Van Tulleken",
+			"sourceId": "9848049762577"
+		},
+		{
+			"title": "Giraffes Can't Dance",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781841215655.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/giraffes-can-t-dance-book-giles-andreae-9781841215655",
+			"author": "Giles Andreae",
+			"sourceId": "9780767359249"
+		},
+		{
+			"title": "The Tiger Who Came to Tea",
+			"price": 3.3,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780007215997.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/tiger-who-came-to-tea-book-judith-kerr-9780007215997",
+			"author": "Judith Kerr",
+			"sourceId": "9780166918417"
+		},
+		{
+			"title": "Funnybones",
+			"price": 3.7,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780140565812.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/funnybones-book-allan-ahlberg-9780140565812",
+			"author": "Allan Ahlberg",
+			"sourceId": "9870118093073"
+		},
+		{
+			"title": "Paddington",
+			"price": 3.7,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780007236336.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/paddington-book-michael-bond-9780007236336",
+			"author": "Michael Bond",
+			"sourceId": "9784063131921"
+		},
+		{
+			"title": "The Gruffalo",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781509830398.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/gruffalo-book-julia-donaldson-9781509830398",
+			"author": "Julia Donaldson",
+			"sourceId": "9836697223441"
+		},
+		{
+			"title": "The Very Hungry Caterpillar",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780241003008.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/very-hungry-caterpillar-book-eric-carle-9780241003008",
+			"author": "Eric Carle",
+			"sourceId": "9782450618641"
+		},
+		{
+			"title": "The Wonky Donkey",
+			"price": 4,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781407195575.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/wonky-donkey-book-craig-smith-9781407195575",
+			"author": "Craig Smith",
+			"sourceId": "9782225469713"
+		},
+		{
+			"title": "I Love You to the Moon and Back",
+			"price": 5.3,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781848690691.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/i-love-you-to-the-moon-and-back-book-amelia-hepworth-9781848690691",
+			"author": "Amelia Hepworth",
+			"sourceId": "9791345754385"
+		},
+		{
+			"title": "The Detective Dog",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781509801602.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/detective-dog-book-julia-donaldson-9781509801602",
+			"author": "Julia Donaldson",
+			"sourceId": "9780504199441"
+		},
+		{
+			"title": "The Boy Who Grew Dragons (The Boy Who Grew Dragons 1)",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781848126497.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/boy-who-grew-dragons-the-boy-who-grew-dragons-1-book-andy-shepherd-9781848126497",
+			"author": "Andy Shepherd",
+			"sourceId": "9779952550161"
+		},
+		{
+			"title": "Five Minutes' Peace",
+			"price": 3.5,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781406361902.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/five-minutes-peace-book-jill-murphy-9781406361902",
+			"author": "Jill Murphy",
+			"sourceId": "9782307619089"
+		},
+		{
+			"title": "Elmer",
+			"price": 3.3,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781842707319.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/elmer-book-david-mckee-9781842707319",
+			"author": "David Mckee",
+			"sourceId": "9787736031505"
+		},
+		{
+			"title": "Guess How Much I Love You",
+			"price": 3.5,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781406358780.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/guess-how-much-i-love-you-book-sam-mcbratney-9781406358780",
+			"author": "Sam Mcbratney",
+			"sourceId": "9779946324241"
+		},
+		{
+			"title": "We're Going on a Bear Hunt",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780744523232.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/we-re-going-on-a-bear-hunt-book-michael-rosen-9780744523232",
+			"author": "Michael Rosen",
+			"sourceId": "9780103774481"
+		},
+		{
+			"title": "Ten Little Dinosaurs Board Book",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781408346464.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/ten-little-dinosaurs-board-book-book-mike-brownlow-9781408346464",
+			"author": "Mike Brownlow",
+			"sourceId": "9781200257297"
+		},
+		{
+			"title": "The Lion Inside",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781408331606.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/lion-inside-book-rachel-bright-9781408331606",
+			"author": "Rachel Bright",
+			"sourceId": "9795776872721"
+		},
+		{
+			"title": "The Ugly Five",
+			"price": 4.5,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781407184630.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/ugly-five-book-julia-donaldson-9781407184630",
+			"author": "Julia Donaldson",
+			"sourceId": "9827188736273"
+		},
+		{
+			"title": "Where's Spot?",
+			"price": 3.6,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780723263661.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/where-s-spot-book-eric-hill-9780723263661",
+			"author": "Eric Hill",
+			"sourceId": "9781448704273"
+		},
+		{
+			"title": "Room on the Broom",
+			"price": 4.2,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9781509830435.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/room-on-the-broom-book-julia-donaldson-9781509830435",
+			"author": "Julia Donaldson",
+			"sourceId": "9802018455825"
+		},
+		{
+			"title": "The Christmasaurus",
+			"price": 3.7,
+			"imageUrl": "https://image-server.worldofbooks.com/images/9780141373348.jpg",
+			"sourceUrl": "https://www.worldofbooks.com/en-gb/products/christmasaurus-book-tom-fletcher-9780141373348",
+			"author": "Tom Fletcher",
+			"sourceId": "9780636352785"
+		}
+	]
+}
